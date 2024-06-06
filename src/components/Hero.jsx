@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-        <div className="min-h-screen flex flex-col gap-10 items-center justify-center text-center mx-w-[800px] mx-auto w-full">
+        <div className="min-h-screen flex flex-col gap-10 items-center justify-center text-center mx-w-[800px] mx-auto w-full p-3">
             <div className="flex flex-col gap-4">
                 <p>IT'S TIME TO GET</p>
                 <h1 className="uppercase font-semibold text-4xl sm:text-5xl md:text-6xl lg:text-7xl">
